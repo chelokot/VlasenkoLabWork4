@@ -1,0 +1,2 @@
+итого 0
+-rw-r--r--. 1 chelokot chelokot 0 апр 11 08:16 file_list.txt
